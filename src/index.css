@@ -29,6 +29,7 @@
   .img-hero{
     width: 90vw;
   }
+
 }
 
 /* Small devices (Mobile) */
@@ -41,5 +42,8 @@
   }
   .img-hero{
     width: 90vw;
+  }
+  .wid{
+    width: 100%;
   }
 }

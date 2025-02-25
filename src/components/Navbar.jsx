@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
     return (
         <>
-           <nav class=" fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
+           <nav class="backdrop-blur fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
                 <div class=" flex flex-wrap items-center justify-between mx-auto p-2">
                     <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
                         <img src="/logosvg.svg" class="h-12" alt="Flowbite Logo"/>
