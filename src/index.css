@@ -1,0 +1,45 @@
+.margin-top{
+  margin-top: 45px;
+}
+
+.hero{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hero-main{
+  margin-top: 10vh;
+  width: 40vw;
+  text-align: start;
+  margin-left: 50px;
+}
+
+.img-hero{
+  width: 50vw;
+}
+
+/* Medium devices (Tablets) */
+@media (max-width: 1024px) {
+  .hero-main{
+    margin-top: 10px;
+    width: 90vw;
+    margin-left: 10px;
+  }
+
+  .img-hero{
+    width: 90vw;
+  }
+}
+
+/* Small devices (Mobile) */
+@media (max-width: 768px) {
+  .hero-main{
+    margin-top: 10px;
+
+    width: 90vw;
+    margin-left: 5px;
+  }
+  .img-hero{
+    width: 90vw;
+  }
+}
