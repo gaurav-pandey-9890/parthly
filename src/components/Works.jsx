@@ -3,7 +3,7 @@ import React from 'react'
 const Works = () => {
     return (
         <>
-            <h2 class="my-4 text-2xl text-center font-bold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-4xl dark:text-white">How It Works?</h2>
+            <h2 class="my-14 text-5xl text-center font-bold tracking-tight leading-none text-gray-900  dark:text-white">How It Works?</h2>
 
             <section class="text-gray-600 body-font">
                 <div class="container px-5 py-4 mx-auto flex flex-wrap">

@@ -5,7 +5,7 @@ const Features = () => {
         <section class="text-gray-600 body-font">
             <div class="container px-5 py-24 mx-auto">
                 <div class="text-center mb-20">
-                    <h1 class="sm:text-6xl text-4xl font-bold text-center title-font text-gray-900 mb-4">Why Choose Parthly?</h1>
+                    <h1 class="text-5xl font-bold text-center title-font text-gray-900 mb-4">Why Choose Parthly?</h1>
                     <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">Unlock a seamless career-planning experience with AI-driven insights, personalized roadmaps, and real-world opportunities. Parthly empowers you to explore, track, and achieve your career goals with clarity and confidence 🚀</p>
                 </div>
                 <div class="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
