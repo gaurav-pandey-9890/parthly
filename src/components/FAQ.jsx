@@ -3,7 +3,7 @@ import React from 'react'
 const FAQ = () => {
     return (
         <>
-            <h2 class="my-10 text-5xl text-center font-bold tracking-tight leading-none text-gray-900  dark:text-white">Frequently Asked Question!</h2>
+            <h2 class="mt-10 mb-20 text-5xl text-center font-bold tracking-tight leading-none text-gray-900  dark:text-white">Frequently Asked Question!</h2>
 
             <div id="accordion-collapse" data-accordion="collapse" class="w-3/4 mx-auto widthfull">
                 <h2 id="accordion-collapse-heading-1">

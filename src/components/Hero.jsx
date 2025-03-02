@@ -26,7 +26,7 @@ const Hero = () => {
                                 </a>
                             </div>
                         </div>
-                        <img class="img-hero " src="./mainimg.png" alt="parthly main img" />
+                        <img class="img-hero " src="./webimg.png" alt="parthly main img" />
                     </div>
                 </div>
                 <div class="bg-gradient-to-b from-blue-50 to-transparent dark:from-blue-900 w-full h-full absolute top-0 left-0 z-0"></div>

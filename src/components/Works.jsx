@@ -3,12 +3,12 @@ import React from 'react'
 const Works = () => {
     return (
         <>
-            <h2 class="my-14 text-5xl text-center font-bold tracking-tight leading-none text-gray-900  dark:text-white">How It Works?</h2>
+            <h2 class="mt-14 mb-10 text-5xl text-center font-bold tracking-tight leading-none text-gray-900  dark:text-white">How It Works?</h2>
 
             <section class="text-gray-600 body-font">
-                <div class="container px-5 py-4 mx-auto flex flex-wrap">
-                    <div class="flex flex-wrap w-full">
-                        <div class="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6">
+                <div class="container px-5 py-2 mx-auto flex flex-wrap">
+                    <div class="flex flex-wrap w-full ms-8">
+                        <div class="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6  ">
                             <div class="flex relative pb-12">
                                 <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
                                     <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
